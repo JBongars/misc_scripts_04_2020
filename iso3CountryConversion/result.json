@@ -1,0 +1,637 @@
+[
+  {
+    "name": "Algeria",
+    "iso3": "DZA",
+    "table": "T3645",
+    "code": "ALG",
+    "f": 1,
+    "descriptionShort": "ALGERIA",
+    "descriptionLong": "ALGERIA"
+  },
+  {
+    "name": "Angola",
+    "iso3": "AGO",
+    "table": "T3645",
+    "code": "ANG",
+    "f": 1,
+    "descriptionShort": "ANGOLA",
+    "descriptionLong": "ANGOLA"
+  },
+  {
+    "name": "Bahrain",
+    "iso3": "BHR",
+    "table": "T3645",
+    "code": "BAH",
+    "f": 1,
+    "descriptionShort": "BAHRAIN",
+    "descriptionLong": "BAHRAIN"
+  },
+  {
+    "name": "Bangladesh",
+    "iso3": "BGD",
+    "table": "T3645",
+    "code": "BAN",
+    "f": 1,
+    "descriptionShort": "BANGLADESH",
+    "descriptionLong": "BANGLADESH"
+  },
+  {
+    "name": "Belarus",
+    "iso3": "BLR",
+    "table": "T3645",
+    "code": "BEA",
+    "f": 1,
+    "descriptionShort": "BELARUS",
+    "descriptionLong": "BELARUS"
+  },
+  {
+    "name": "Belize",
+    "iso3": "BLZ",
+    "table": "T3645",
+    "code": "BEZ",
+    "f": 1,
+    "descriptionShort": "BELIZE",
+    "descriptionLong": "BELIZE"
+  },
+  {
+    "name": "Bermuda",
+    "iso3": "BMU",
+    "table": "T3645",
+    "code": "BER",
+    "f": 1,
+    "descriptionShort": "BERMUDA",
+    "descriptionLong": "BERMUDA"
+  },
+  {
+    "name": "Bhutan",
+    "iso3": "BTN",
+    "table": "T3645",
+    "code": "BHU",
+    "f": 1,
+    "descriptionShort": "BHUTAN",
+    "descriptionLong": "BHUTAN"
+  },
+  { "name": "Bonaire, Sint Eustatius and Saba", "iso3": "BES", "code": "WWD" },
+  {
+    "name": "Brunei Darussalam",
+    "iso3": "BRN",
+    "table": "T3645",
+    "code": "BRU",
+    "f": 1,
+    "descriptionShort": "BRUNEI",
+    "descriptionLong": "BRUNEI DARUSSALAM"
+  },
+  {
+    "name": "Bulgaria",
+    "iso3": "BGR",
+    "table": "T3645",
+    "code": "BUL",
+    "f": 1,
+    "descriptionShort": "BULGARIA",
+    "descriptionLong": "BULGARIA"
+  },
+  {
+    "name": "Cambodia",
+    "iso3": "KHM",
+    "table": "T3645",
+    "code": "CAM",
+    "f": 1,
+    "descriptionShort": "CAMBODIA",
+    "descriptionLong": "CAMBODIA"
+  },
+  {
+    "name": "Cameroon",
+    "iso3": "CMR",
+    "table": "T3645",
+    "code": "CAR",
+    "f": 1,
+    "descriptionShort": "CAMEROON",
+    "descriptionLong": "CAMEROON"
+  },
+  {
+    "name": "Cayman Islands",
+    "iso3": "CYM",
+    "table": "T3645",
+    "code": "CAY",
+    "f": 1,
+    "descriptionShort": "CAYMAN ISL",
+    "descriptionLong": "CAYMAN ISLANDS"
+  },
+  {
+    "name": "Chile",
+    "iso3": "CHL",
+    "table": "T3645",
+    "code": "CHI",
+    "f": 1,
+    "descriptionShort": "CHILE",
+    "descriptionLong": "CHILE"
+  },
+  {
+    "name": "Congo",
+    "iso3": "COD",
+    "table": "T3645",
+    "code": "CON",
+    "f": 1,
+    "descriptionShort": "CONGO (BRA",
+    "descriptionLong": "CONGO (BRAZZAVILLE)"
+  },
+  {
+    "name": "Croatia",
+    "iso3": "HRV",
+    "table": "T3645",
+    "code": "CRO",
+    "f": 1,
+    "descriptionShort": "CROATIA",
+    "descriptionLong": "CROATIA"
+  },
+  { "name": "Curaçao", "iso3": "CUW", "code": "WWD" },
+  {
+    "name": "Denmark",
+    "iso3": "DNK",
+    "table": "T3645",
+    "code": "DEN",
+    "f": 1,
+    "descriptionShort": "DENMARK",
+    "descriptionLong": "DENMARK"
+  },
+  {
+    "name": "El Salvador",
+    "iso3": "SLV",
+    "table": "T3645",
+    "code": "ELS",
+    "f": 1,
+    "descriptionShort": "EL SALVADO",
+    "descriptionLong": "EL SALVADOR"
+  },
+  {
+    "name": "French Guiana",
+    "iso3": "GUF",
+    "table": "T3645",
+    "code": "FRE",
+    "f": 1,
+    "descriptionShort": "FRCH GUIAN",
+    "descriptionLong": "FRENCH GUIANA"
+  },
+  {
+    "name": "Gambia",
+    "iso3": "GMB",
+    "table": "T3645",
+    "code": "GAM",
+    "f": 1,
+    "descriptionShort": "GAMBIA",
+    "descriptionLong": "GAMBIA"
+  },
+  {
+    "name": "Germany",
+    "iso3": "DEU",
+    "table": "T3645",
+    "code": "GER",
+    "f": 1,
+    "descriptionShort": "GERMANY",
+    "descriptionLong": "GERMANY"
+  },
+  {
+    "name": "Greece",
+    "iso3": "GRC",
+    "table": "T3645",
+    "code": "GRE",
+    "f": 1,
+    "descriptionShort": "GREECE",
+    "descriptionLong": "GREECE"
+  },
+  {
+    "name": "Haiti",
+    "iso3": "HTI",
+    "table": "T3645",
+    "code": "HAI",
+    "f": 1,
+    "descriptionShort": "HAITI",
+    "descriptionLong": "HAITI"
+  },
+  {
+    "name": "Honduras",
+    "iso3": "HND",
+    "table": "T3645",
+    "code": "HON",
+    "f": 1,
+    "descriptionShort": "HONDURAS",
+    "descriptionLong": "HONDURAS"
+  },
+  {
+    "name": "Iceland",
+    "iso3": "ISL",
+    "table": "T3645",
+    "code": "ICE",
+    "f": 1,
+    "descriptionShort": "ICELAND",
+    "descriptionLong": "ICELAND"
+  },
+  {
+    "name": "Indonesia",
+    "iso3": "IDN",
+    "table": "T3645",
+    "code": "IND",
+    "f": 1,
+    "descriptionShort": "INDONESIA",
+    "descriptionLong": "INDONESIA"
+  },
+  {
+    "name": "Ireland",
+    "iso3": "IRL",
+    "table": "T3645",
+    "code": "IRE",
+    "f": 1,
+    "descriptionShort": "IRELAND",
+    "descriptionLong": "IRELAND"
+  },
+  {
+    "name": "Isle of Man",
+    "iso3": "IMN",
+    "table": "T3645",
+    "code": "GBM",
+    "f": 1,
+    "descriptionShort": "ISLE O MAN",
+    "descriptionLong": "ISLE OF MAN"
+  },
+  {
+    "name": "Korea",
+    "iso3": "PRK",
+    "table": "T3645",
+    "code": "KOR",
+    "f": 1,
+    "descriptionShort": "KOREA (SOU",
+    "descriptionLong": "KOREA (SOUTH)"
+  },
+  {
+    "name": "Kosovo",
+    "iso3": "XKX",
+    "table": "T3645",
+    "code": "KOS",
+    "f": 1,
+    "descriptionShort": "KOSOVO",
+    "descriptionLong": "KOSOVO"
+  },
+  {
+    "name": "Latvia",
+    "iso3": "LVA",
+    "table": "T3645",
+    "code": "LAT",
+    "f": 1,
+    "descriptionShort": "LATVIA",
+    "descriptionLong": "LATVIA"
+  },
+  {
+    "name": "Lebanon",
+    "iso3": "LBN",
+    "table": "T3645",
+    "code": "LEB",
+    "f": 1,
+    "descriptionShort": "LEBANON",
+    "descriptionLong": "LEBANON"
+  },
+  {
+    "name": "Liberia",
+    "iso3": "LBR",
+    "table": "T3645",
+    "code": "LIB",
+    "f": 1,
+    "descriptionShort": "LIBERIA",
+    "descriptionLong": "LIBERIA"
+  },
+  {
+    "name": "Lithuania",
+    "iso3": "LTU",
+    "table": "T3645",
+    "code": "LIT",
+    "f": 1,
+    "descriptionShort": "LITHUANIA",
+    "descriptionLong": "LITHUANIA"
+  },
+  {
+    "name": "Madagascar",
+    "iso3": "MDG",
+    "table": "T3645",
+    "code": "MAD",
+    "f": 1,
+    "descriptionShort": "MADAGASCAR",
+    "descriptionLong": "MADAGASCAR"
+  },
+  {
+    "name": "Malawi",
+    "iso3": "MWI",
+    "table": "T3645",
+    "code": "MAI",
+    "f": 1,
+    "descriptionShort": "MALAWI",
+    "descriptionLong": "MALAWI"
+  },
+  {
+    "name": "Malaysia",
+    "iso3": "MYS",
+    "table": "T3645",
+    "code": "MAL",
+    "f": 1,
+    "descriptionShort": "MALAYSIA",
+    "descriptionLong": "MALAYSIA"
+  },
+  {
+    "name": "Malta",
+    "iso3": "MLT",
+    "table": "T3645",
+    "code": "MAT",
+    "f": 1,
+    "descriptionShort": "MALTA",
+    "descriptionLong": "MALTA"
+  },
+  {
+    "name": "Mauritania",
+    "iso3": "MRT",
+    "table": "T3645",
+    "code": "MAN",
+    "f": 1,
+    "descriptionShort": "MAURITANIA",
+    "descriptionLong": "MAURITANIA"
+  },
+  {
+    "name": "Mauritius",
+    "iso3": "MUS",
+    "table": "T3645",
+    "code": "MAU",
+    "f": 1,
+    "descriptionShort": "MAURITIUS",
+    "descriptionLong": "MAURITIUS"
+  },
+  {
+    "name": "Mongolia",
+    "iso3": "MNG",
+    "table": "T3645",
+    "code": "MOG",
+    "f": 1,
+    "descriptionShort": "MONGOLIA",
+    "descriptionLong": "MONGOLIA"
+  },
+  {
+    "name": "Montenegro",
+    "iso3": "MNE",
+    "table": "T3645",
+    "code": "MON",
+    "f": 1,
+    "descriptionShort": "MONTENEGRO",
+    "descriptionLong": "MONTENEGRO"
+  },
+  { "name": "Myanmar, Burma", "iso3": "MMR", "code": "WWD" },
+  {
+    "name": "Nauru",
+    "iso3": "NRU",
+    "table": "T3645",
+    "code": "NAU",
+    "f": 1,
+    "descriptionShort": "NAURU",
+    "descriptionLong": "NAURU"
+  },
+  {
+    "name": "Nepal",
+    "iso3": "NPL",
+    "table": "T3645",
+    "code": "NEP",
+    "f": 1,
+    "descriptionShort": "NEPAL",
+    "descriptionLong": "NEPAL"
+  },
+  {
+    "name": "New Caledonia",
+    "iso3": "NCL",
+    "table": "T3645",
+    "code": "NEW",
+    "f": 1,
+    "descriptionShort": "N.CALEDONI",
+    "descriptionLong": "NEW CALEDONIA"
+  },
+  {
+    "name": "Nigeria",
+    "iso3": "NGA",
+    "table": "T3645",
+    "code": "NIG",
+    "f": 1,
+    "descriptionShort": "NIGERIA",
+    "descriptionLong": "NIGERIA"
+  },
+  { "name": "Palestinian Territories", "iso3": "PSE", "code": "WWD" },
+  {
+    "name": "Papua New Guinea",
+    "iso3": "PNG",
+    "table": "T3645",
+    "code": "PAP",
+    "f": 1,
+    "descriptionShort": "PAPUA",
+    "descriptionLong": "PAPUA NEW GUINEA"
+  },
+  {
+    "name": "Paraguay",
+    "iso3": "PRY",
+    "table": "T3645",
+    "code": "PAR",
+    "f": 1,
+    "descriptionShort": "PARAGUAY",
+    "descriptionLong": "PARAGUAY"
+  },
+  {
+    "name": "Philippines",
+    "iso3": "PHL",
+    "table": "T3645",
+    "code": "PHI",
+    "f": 1,
+    "descriptionShort": "PHILIPPINE",
+    "descriptionLong": "PHILIPPINES"
+  },
+  {
+    "name": "Portugal",
+    "iso3": "PRT",
+    "table": "T3645",
+    "code": "POR",
+    "f": 1,
+    "descriptionShort": "PORTUGAL",
+    "descriptionLong": "PORTUGAL"
+  },
+  {
+    "name": "Puerto Rico",
+    "iso3": "PRI",
+    "table": "T3645",
+    "code": "PUE",
+    "f": 1,
+    "descriptionShort": "PUERTO RIC",
+    "descriptionLong": "PUERTO RICO"
+  },
+  {
+    "name": "Romania",
+    "iso3": "ROU",
+    "table": "T3645",
+    "code": "ROM",
+    "f": 1,
+    "descriptionShort": "ROMANIA",
+    "descriptionLong": "ROMANIA"
+  },
+  {
+    "name": "Samoa",
+    "iso3": "WSM",
+    "table": "T3645",
+    "code": "SAM",
+    "f": 1,
+    "descriptionShort": "SAMOA",
+    "descriptionLong": "SAMOA"
+  },
+  {
+    "name": "Serbia",
+    "iso3": "SRB",
+    "table": "T3645",
+    "code": "SER",
+    "f": 1,
+    "descriptionShort": "SERBIA",
+    "descriptionLong": "SERBIA"
+  },
+  {
+    "name": "Seychelles",
+    "iso3": "SYC",
+    "table": "T3645",
+    "code": "SEY",
+    "f": 1,
+    "descriptionShort": "SEYCHELLES",
+    "descriptionLong": "SEYCHELLES"
+  },
+  {
+    "name": "Sierra Leone",
+    "iso3": "SLE",
+    "table": "T3645",
+    "code": "SIE",
+    "f": 1,
+    "descriptionShort": "SIERRA",
+    "descriptionLong": "SIERRA LEONE"
+  },
+  { "name": "Sint Maarten", "iso3": "SXM", "code": "WWD" },
+  {
+    "name": "Slovenia",
+    "iso3": "SVN",
+    "table": "T3645",
+    "code": "SLO",
+    "f": 1,
+    "descriptionShort": "SLOVENIA",
+    "descriptionLong": "SLOVENIA"
+  },
+  {
+    "name": "South Africa",
+    "iso3": "ZAF",
+    "table": "T3645",
+    "code": "SA",
+    "f": 1,
+    "descriptionShort": "S AFRICA",
+    "descriptionLong": "SOUTH AFRICA"
+  },
+  {
+    "name": "South Sudan",
+    "iso3": "SSD",
+    "table": "T3645",
+    "code": "SSU",
+    "f": 1,
+    "descriptionShort": "S.SUDAN",
+    "descriptionLong": "SOUTH SUDAN"
+  },
+  {
+    "name": "Sri Lanka",
+    "iso3": "LKA",
+    "table": "T3645",
+    "code": "SRI",
+    "f": 1,
+    "descriptionShort": "SRI LANKA",
+    "descriptionLong": "SRI LANKA"
+  },
+  {
+    "name": "Sudan",
+    "iso3": "SDN",
+    "table": "T3645",
+    "code": "SUD",
+    "f": 1,
+    "descriptionShort": "SUDAN",
+    "descriptionLong": "SUDAN"
+  },
+  {
+    "name": "Switzerland",
+    "iso3": "CHE",
+    "table": "T3645",
+    "code": "CH",
+    "f": 2,
+    "descriptionShort": "SWITZERL'D",
+    "descriptionLong": "SWITZERLAND"
+  },
+  {
+    "name": "Timor-Leste",
+    "iso3": "TLS",
+    "table": "T3645",
+    "code": "TIM",
+    "f": 1,
+    "descriptionShort": "TIMOR",
+    "descriptionLong": "TIMOR-LESTE (EAST TIMOR)"
+  },
+  {
+    "name": "Togo",
+    "iso3": "TGO",
+    "table": "T3645",
+    "code": "TOG",
+    "f": 1,
+    "descriptionShort": "TOGO",
+    "descriptionLong": "TOGO"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "iso3": "TTO",
+    "table": "T3645",
+    "code": "TRI",
+    "f": 1,
+    "descriptionShort": "TRINIDAD",
+    "descriptionLong": "TRINIDAD AND TOBAGO"
+  },
+  {
+    "name": "United Arab Emirates",
+    "iso3": "ARE",
+    "table": "T3645",
+    "code": "UAE",
+    "f": 1,
+    "descriptionShort": "UAE",
+    "descriptionLong": "UNITED ARAB EMIRATES"
+  },
+  {
+    "name": "Uruguay",
+    "iso3": "URY",
+    "table": "T3645",
+    "code": "URU",
+    "f": 1,
+    "descriptionShort": "URUGUAY",
+    "descriptionLong": "URUGUAY"
+  },
+  {
+    "name": "Vietnam",
+    "iso3": "VNM",
+    "table": "T3645",
+    "code": "VTM",
+    "f": 2,
+    "descriptionShort": "VIETNAM",
+    "descriptionLong": "VIETNAM"
+  },
+  {
+    "name": "Zambia",
+    "iso3": "ZMB",
+    "table": "T3645",
+    "code": "ZAM",
+    "f": 1,
+    "descriptionShort": "ZAMBIA",
+    "descriptionLong": "ZAMBIA"
+  },
+  {
+    "name": "Zimbabwe",
+    "iso3": "ZWE",
+    "table": "T3645",
+    "code": "ZIM",
+    "f": 1,
+    "descriptionShort": "ZIMBABWE",
+    "descriptionLong": "ZIMBABWE"
+  }
+]
